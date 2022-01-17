@@ -1,0 +1,268 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E5E5E5 ;
+    padding: 40px 40px;
+}
+
+/* first_main */
+.first_main{
+    
+    width: 1200px;
+    margin: 0 auto;
+    padding: 105px 90px;
+}
+/* main styles */
+.main {
+    display:flex;
+    flex-direction: row-reverse;
+    background-color: #FFFFFF
+    ;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+/* fed1 */
+.fed1{
+    width: 153px;
+    height: 17px;
+    left: 498px;
+    top: 142px;   
+    color: #000000;
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+margin-bottom: 20px;
+}
+
+/* fed2 */
+.fed2{
+    width: 342px;
+    height: 50px;
+    left: 498px;
+    top: 178px; 
+    font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+margin-bottom: 25px;
+color: #000000; 
+}
+/* fed3 */
+.fed3{
+    
+    width: 400px;
+    
+    
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+   
+    
+    
+    color: #595959; 
+}
+
+/* about styles */
+.about{
+    margin-bottom: 40px;
+}
+
+.title{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 10px;
+
+
+color: #000000;
+
+}
+
+/* prodjekts-list */
+.prodjekts-list{
+    padding: 0;
+    margin-left: 15px;
+}
+
+/* projects-item */
+
+.projects-item{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    
+
+}
+
+/* project */
+
+.project,.p-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    
+
+}
+
+.p-link{
+    margin-left: 10px;
+}
+/* brecket */
+
+.brecket{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000; 
+}
+    /* projects */
+.projects{
+   margin-bottom: 50px; 
+}
+
+/* work styles */
+.work
+/* work-pos */
+.work-pos{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000; 
+    margin-bottom: 10px;  
+}
+/* organi */
+.organi{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px; 
+    color: #FB6D3A; 
+}
+
+/* paragraph */
+.paragraph{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+color: #A8A8A8;   
+margin-bottom: 10px;
+}
+
+/* | */
+.v{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+/* work-list */
+.work-list{
+    padding: 0;
+    max-width: 15px;
+}
+
+/* work-list */
+.work-list{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    
+    color: #595959;  
+    
+}
+
+/* work-list-item */
+.work-list-item{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+  
+    color: #595959;
+}
+
+ /* education */
+.education{
+    background-color:#FFFFFF ;
+}
+
+/* sidebar styles */
+.sidebar{
+    background-color:#1E2939
+    ;
+    padding-top: 40px;
+    width: 370px;
+}
+/* size-photo */
+.size-photo{
+    width: 370px;
+    height: 354px;
+    margin-bottom: 50px;
+}
+
+/* sidebar-title */
+.sidebar-title{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+   margin-left: 40pt; 
+   margin-top: 50px;
+   
+}
+
+/* Tech Skills */
+.Tech-Skills{
+
+}
+
+ /* contact-title */
+.contact-title{
+margin-bottom: 10px;
+
+}
+
+/* fix-margen-left
+ */
+ .fix-margen-left{
+    margin-left:-20px; 
+    color: #FB6D3A
+    ;
+  
+ }
+
+ /* tech-sc-tx */
+.tech-sc-tx{
+    color: #FFFFFF;
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+
+/* contact-link */
+.contact-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;   
+    color: #565e6a; 
+    margin-left: 5px;
+}
